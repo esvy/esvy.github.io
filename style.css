@@ -1,0 +1,125 @@
+img {
+  width: 100%;
+  position: relative;
+}
+article {
+  position: absolute;
+  top: 240px;
+  left: 330px;
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+}
+h1 {
+  font-size: 70px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0px;
+  text-decoration: none;
+  font-weight: normal;
+}
+.Vader {
+  padding: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 40px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+p {
+  color: #222;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+ul {
+  color: #222;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  list-style-type: square;
+}
+
+main {
+  margin-left: 275px;
+  margin-right: 275px;
+}
+
+blockquote::before {
+  content: '“';
+  font-size: 150px;
+  position: absolute;
+  top: -40px;
+  left: -2px;
+}
+
+blockquote {
+  background: #3e3f40;
+  height: 120px;
+  width: 105%;
+  margin-left: -40px;
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  font-size: 54px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  position: relative;
+}
+
+.broad {
+  height: 160px;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.achievements {
+  font-size: 15px;
+}
+
+h2 {
+  color: #222;
+  font-family: 'Josefin Sans', sans-serif;
+  padding-top: 20px;
+}
+
+h3 {
+  color: #222;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 24px;
+  padding-top: 30px;
+}
+
+subtitle {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  
+}
+
+.exp {
+  margin-bottom: 3px;
+}
+
+.empire {
+  font-size: 15px;
+}
+
+#last {
+  margin-bottom: 50px;
+}
+
+hr {
+  border-top: solid black;
+  margin-left: -20px;
+}
+
+footer {
+  /*border-top: solid black;*/
+  padding-top: 20px;
+}
+
+#personal {
+   margin-top: 60px;
+}
